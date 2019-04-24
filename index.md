@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://emiia.github.io/1/monocle1.gif) and ![Image](https://emiia.github.io/1/monocle1.gif)
 For more details see GitHub Flavored Markdown.
 
 Jekyll Themes
